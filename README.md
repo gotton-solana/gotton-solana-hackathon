@@ -1,4 +1,35 @@
 # Gotton Solana Hackathon
+## Links
+
+[Game link](https://gotton-web.bountyhunters.app/) | [Website](https://gotton.meme/) | [X profile](https://x.com/GOTTON_meme) | [Community](https://t.me/GOTTON_meme)
+
+---
+
+## **Overview**
+
+Crypto Catcher GOTTON helps accelerate Solana’s proven two use cases; stablecoin and speculation.  
+Log in with your wallet, purchase game tickets using USDC or BONK, and take control of real-life claw machines via your device for a chance to win crypto.
+
+---
+
+## **Platform Features**
+
+### PvE
+
+Take direct control of real-life claw machines via your device and aim to win crypto rewards.
+
+- **Hardware**: With over five years of experience in the traditional claw machine industry, all 150+ machines are developed and operated fully in-house.
+- **Broadcasting**: Each machine is equipped with two cameras (front and side view). Video feeds are streamed to the software system, which synchronises claw arm movements based on user input.
+- **Software**: Handles live broadcasting, receives claw movement inputs, and verifies win/loss outcomes.
+- **NFT Mechanics**: To ensure legal compliance, the game protocol uses NFTs to represent rewards (instead of direct token transfers). NFTs are pre-minted and held in an operational address. Upon a win, the NFT is automatically transferred to the connected wallet.
+  - **Operational Address**: `HUQgbGNURsJNBUVAumz3rU3zx41cVtrevLpzXhyp1qW1`
+
+### PvP and Live-streaming
+
+Delegate your assets to streamers and let them play on your behalf. If they win, you earn rewards passively.
+
+- **Status**: Currently undergoing battle testing in the developer environment.
+- **Upcoming Update**: Prior to the PvP launch, the system will upgrade to support MPL-404 for escrow-based NFT-token swapping, enabling users to redeem NFTs for tokens at any time.
 
 ## System Requirement
 ```
